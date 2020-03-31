@@ -162,19 +162,18 @@ section.resume-section .resume-item .resume-date {
 }
 
 .bg-primary {
-  /*background-color: #BD5D38 !important;*/
+  background-color: #BD5D38 !important;
   /*background-color: #A51B3E !important;*/
-  background-color: #fcba03 !important;
 }
 
 .text-primary {
-  /*color: #BD5D38 !important;*/
-  color: #A51B3E !important;
+  color: #BD5D38 !important;
+/*   color: #A51B3E !important; */
 }
 
 a {
-  /*color: #BD5D38;*/
-  color: #A51B3E;
+  color: #BD5D38;
+/*   color: #A51B3E; */
 }
 
 a:hover, a:focus, a:active {
